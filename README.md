@@ -26,3 +26,30 @@
 * Now that you've been building out your `Social Card` use the `Project-2.png` file and [this codepen](https://codepen.io/lambdaschool/pen/xWWMzg) to build out all the components you need to build out a calculator that looks much like the one in the png.
 
 * **Stretch Problem 1** After you build out the calculator, make all of the buttons work. You have a lot of knowledge already to be able to achieve this. However feel free to research into it as much as you need.
+
+## React UI Components
+
+### Setup
+- [ ] Fork your codepen project
+
+### Project 1: Social Card
+- [ ] Think about how to break the .png file into smaller components
+- [ ] Use codepen to build the components you need
+- [ ] Use the provided URLs (or your own images) for the Banner and Avatar
+
+### Project 2: React Calculator
+- [ ] Think about how to break the .png file into smaller components
+- [ ] Use codepen to build the components you need
+
+### Stretch Problems
+
+#### Social Card
+- [ ] Include the icons
+- [ ] Create mock data
+- [ ] Build a grid view containing multiple cards
+
+#### React Calculator
+- [ ] Make the calculator buttons work
+
+### After you're finished
+- [ ] Send your codepen fork link to your PM
